@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">CashCurrency</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="privatbank">ПриватБанк</string>
+    <string name="choose_date">16.12.2018</string>
+    <string name="datepicker">datepicker</string>
+    <string name="nbu">НБУ</string>
+    <string name="usd">Доллар США</string>
+    <string name="salaryRate">28.169</string>
+    <string name="unit">1 USD</string>
+    <string name="currency">Валюта</string>
+    <string name="saleRate">Покупка</string>
+    <string name="purchaseRate">Продажа</string>
+</resources>
